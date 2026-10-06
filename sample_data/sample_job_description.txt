@@ -1,0 +1,19 @@
+AI/ML Intern
+
+We are looking for a student interested in Artificial Intelligence and Machine Learning.
+
+Required Skills:
+Python, SQL, Machine Learning, Pandas, Git, Data Analysis
+
+Preferred Skills:
+Docker, AWS, React, FastAPI
+
+Responsibilities:
+Develop machine learning prototypes.
+Analyze datasets using Python and Pandas.
+Build and test data-driven applications.
+Collaborate with engineers using Git.
+Create clear technical documentation.
+
+Education:
+Bachelor's degree in Computer Science, Artificial Intelligence, Machine Learning or related engineering field.

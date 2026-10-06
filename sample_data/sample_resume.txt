@@ -1,0 +1,20 @@
+Sanghavi
+sanghavi@example.com
++919876543210
+
+EDUCATION
+B.Tech in Artificial Intelligence and Machine Learning
+
+SKILLS
+Python, SQL, Machine Learning, Pandas, NumPy, Streamlit, Git, HTML, CSS
+
+PROJECTS
+DocuMind AI - Built a document analysis platform using Python and Streamlit for resume and job matching.
+AI Smart Study Planner - Developed a Streamlit application with SQLite for task planning and progress tracking.
+
+CERTIFICATIONS
+Cisco Python Essentials
+Introduction to Data Science
+
+EXPERIENCE
+Academic project experience in Python and machine learning.
